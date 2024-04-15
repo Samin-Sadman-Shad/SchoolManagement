@@ -2,6 +2,9 @@
 {
     public enum  Grade
     {
-
+        A,
+        F,
+        C,
+        B
     }
 }
